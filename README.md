@@ -29,7 +29,7 @@ The project was developed using the following libraries:
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone <[YOUR-GITHUB-REPOSITORY-URL](https://github.com/huzaifaparwaiz/Fractal-Designs)>
 ```
 
 ### 2. Open the Project
